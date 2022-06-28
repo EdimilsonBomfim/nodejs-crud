@@ -1,5 +1,5 @@
 {
-  "name": "NODEJS-CRUD",
+  "name": "nodejs-crud",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/EdimilsonBomfim/nodejs-crud.git"
   },
   "keywords": [],
-  "author": "Edimilson_bomfim <enbomfim2021@gmail.com>",
+  "author": "Edimilson_bomfim <edimilson.nbomfim@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/EdimilsonBomfim/nodejs-crud/issues"
