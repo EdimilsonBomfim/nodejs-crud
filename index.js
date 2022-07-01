@@ -3,6 +3,9 @@ const express = require('express')
 const mongoose = require('mongoose') //importat mongoose
 const app = express()
 
+//chamar entidade criada no banco
+const Person = require('./models/Person')
+
 //formade ler JSON / middlewares
 app.use(
     express.urlencoded({
